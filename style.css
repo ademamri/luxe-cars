@@ -1,0 +1,267 @@
+*{
+    box-sizing: border-box;
+}
+/* title */
+header{
+    position: fi;
+    top: 0;
+    width: 100%;
+}
+.title{
+   background-color:rgba(0, 0, 0, 0.212);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 100%;
+}
+.shop{
+color:rgba(0, 0, 0, 0.13) ;
+width: 30px;
+}
+.gg{
+    color: #ffffff;
+    text-decoration-line: none;
+}
+.logo1{
+    width: 200px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+justify-content: space-between;
+gap: 20px;
+
+color: #ffffff; 
+align-items: center;
+text-align: center;
+}
+/* end title */
+/* img */
+.car{
+    background-image: url("./R.jpg");
+    height: 100vh;
+    padding-top: 5vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.car_box{
+
+    margin-bottom: 100px;
+    color: #ffffff;
+    width: 300PX;
+
+
+}
+.but{
+    align-items: center;
+    display: flex;
+    gap: 20PX;
+    width: 200PX;
+
+}
+.button{
+   height: 50px;
+   width:300px ;
+    color: #ffffff;
+    background-color: #94442c;
+    border-radius: 50px;
+}
+.button1{
+    height: 50px;
+    width:300px ;
+     color: #ffffff;
+     background-color: #94442c;
+     border-radius: 50px;
+ }
+
+.EX{
+    text-align: center;
+}
+/* end img */
+/* goo */
+.goo{
+    display: flex;
+    width: 90%;
+    margin: 70px auto;
+    align-items: center;
+}
+.go{
+    width: 700px;
+ 
+}
+.hellogo{
+   
+    background-color: #ffffff;
+    width: 500px;
+    height: 350px;
+    margin-left: -60px;
+
+}
+.by{
+    margin-left: 20px;
+    gap: 150px;
+}
+/* end goo */
+/* word */
+.word{
+    margin-top: 100px;
+    justify-content: center;
+    margin-top: 100px;
+}
+.jbl{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 70px;
+
+}
+.jbb{
+    display:flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 20px;
+    
+}
+.luxe{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 470px;
+}
+.png{
+    background-color: #ffffff;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+/* end word */
+/* day */
+.adds{
+    margin-top: 70px;
+    background-color: #94442c;
+}
+.add{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    text-align: center;
+}
+.adde{
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+    margin-top: 100px;
+    color: #ffffff;
+}
+/* end day */
+/* find car */
+.findcar{
+    margin-top: 50px;
+}
+.hellocar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 50px;
+}
+.find{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.HYCAR{
+    background-color:white;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+gap: 20px;
+}
+/* end find car */
+/* contact*/
+.CONT{
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 150px;
+  margin-left: 20px;
+  
+}
+.SEND{
+    margin-top: 70px;
+    margin-left: 70px;
+    background-color: #94442c;
+    color: #ffffff;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+.abb{
+    font-size: 20px;
+}
+.hh{
+font-size: 20px;
+    padding: 200px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 300px;
+}
+/* end contact */
+/* footer */
+.oo{
+    display: flex;
+    
+}
+.final{
+
+    background-color: black;
+    margin-top: 50px;
+}
+.byfinal{
+    display: flex;
+    gap: 150px;
+}
+.aloo{
+    margin-left: 50px;
+}
+.fifa{
+    width:300px;
+    color: #ffffff;
+}
+.br{ 
+    color: #fff
+}
+.copy{
+    color: #ffffff;
+    background-color: black;
+   height: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ justify-content: space-between;
+   margin: 0 auto;
+   margin-left: 50px;
+}
+.byy{
+    color:white;
+    justify-content: space-between;
+justify-content: space-between;
+margin-right: 50px;
+text-decoration-line: none;
+gap: 10px;
+}
+.local{
+    margin-top: 50px;
+    margin-right: 40px;
+}
+
+
+/* end footer */
